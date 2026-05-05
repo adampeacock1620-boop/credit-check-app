@@ -5,7 +5,7 @@ import tempfile
 # ---------------------------
 # CONFIG
 # ---------------------------
-st.set_page_config(page_title="Credit Limit Pre-Check", layout="centered")
+st.set_page_config(page_title="ONTICK FINANCE", layout="centered")
 
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
